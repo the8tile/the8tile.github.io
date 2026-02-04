@@ -48,6 +48,7 @@ body {
 }
 .topBar a:hover {
 	background-color: #5d5d5d;
+	transition: 0.2;
 }
 .topBar img {
 	display: block;
@@ -55,3 +56,4 @@ body {
 	width: 50px;
 
 }
+
